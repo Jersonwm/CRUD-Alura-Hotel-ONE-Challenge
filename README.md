@@ -43,5 +43,5 @@ Públicado en el topic:
 
 **Autor 🧑:**
 
-| <sub>Jerson Enrique Mejía</sub>](https://github.com/Jersonwm) |
+| <h1>Jerson Enrique Mejía</h1>(https://github.com/Jersonwm) |
 | :---: |
